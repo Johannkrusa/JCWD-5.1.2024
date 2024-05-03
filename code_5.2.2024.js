@@ -350,7 +350,7 @@ let name_temp = name_4.split(' ');
 var counter_new = 0;
 
 for (let i = 0; i < name_4.length; i++)
-{
+{n
     if (name_4.charAt(i) == 'a')
     {
         counter_new++;

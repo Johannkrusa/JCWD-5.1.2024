@@ -1,4 +1,5 @@
-function palindromeCheck(number) { 
+function palindromeCheck(number) 
+{ 
     let numStr = number.toString(); 
     let length = numStr.length; 
     let result = 0; 

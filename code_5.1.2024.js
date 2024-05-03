@@ -95,12 +95,15 @@ else
     console.log("Number_3 isNaN = False");
 }
 
-// Stuff that makes a bool = false by default
+// Stuff that makes a bool = false by default truthy / falsy
 console.log(Boolean(undefined));
 console.log(Boolean(null));
 console.log(Boolean(NaN));
 console.log(Boolean("0"));
 console.log(Boolean(""));
+
+// truthy
+// blank character string, empty array, empty object, "0" string. "false" string 
 
 console.log(new Date());
 console.log(new Date(0)); // always at 1970 
