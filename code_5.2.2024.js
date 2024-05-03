@@ -358,4 +358,4 @@ for (let i = 0; i < name_4.length; i++)
 }
 console.log(counter_new)
 
-// 0 1 1 2 3 5 8
+// 0 1 1 2 3 5 8 h
